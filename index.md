@@ -3,11 +3,10 @@
 Nothing here yet(!) 
 ```
 
-<hr color: green>
-<blockquote>
+<hr>
+
   
 #### 1. [Open Projects](./projects)
 #### 2. [404 Page](./p)
   
-  </blockquote>
-  <hr solid>
+  <hr>
